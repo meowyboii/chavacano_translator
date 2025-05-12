@@ -5,6 +5,7 @@ This repository hosts a fine-tuned machine translation model designed to transla
 ## 🌐 Live Demo
 
 Experience the translator in action: [Hugging Face Spaces Demo](https://huggingface.co/spaces/meowyboi/en-cbk-translator)
+
 Alternatively, you can access the model directly in [Hugging Face](https://huggingface.co/meowyboi/mbart-large-50-en-cbk-finetuned) for more details or fine-tuning purposes.
 
 ## 📊 Model Overview
